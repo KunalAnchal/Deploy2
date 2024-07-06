@@ -1,0 +1,36 @@
+2024-07-06 14:12:45,963 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.11:8089
+2024-07-06 14:12:45,963 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 14:12:45,967 - INFO -  * Restarting with stat
+2024-07-06 14:12:54,103 - WARNING -  * Debugger is active!
+2024-07-06 14:12:54,108 - INFO -  * Debugger PIN: 152-173-929
+2024-07-06 14:12:54,186 - INFO - 127.0.0.1 - - [06/Jul/2024 14:12:54] "GET / HTTP/1.1" 200 -
+2024-07-06 14:16:20,771 - INFO - 127.0.0.1 - - [06/Jul/2024 14:16:20] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-06 14:16:21,039 - INFO - 127.0.0.1 - - [06/Jul/2024 14:16:21] "GET /show_feed HTTP/1.1" 200 -
+2024-07-06 14:17:07,143 - INFO - 127.0.0.1 - - [06/Jul/2024 14:17:07] "GET /video_feed HTTP/1.1" 200 -
+2024-07-06 14:30:29,054 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.11:8089
+2024-07-06 14:30:29,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 14:30:29,057 - INFO -  * Restarting with stat
+2024-07-06 14:30:35,020 - WARNING -  * Debugger is active!
+2024-07-06 14:30:35,025 - INFO -  * Debugger PIN: 152-173-929
+2024-07-06 14:30:39,278 - INFO - 127.0.0.1 - - [06/Jul/2024 14:30:39] "GET / HTTP/1.1" 200 -
+2024-07-06 14:30:40,859 - INFO - 127.0.0.1 - - [06/Jul/2024 14:30:40] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-06 14:30:41,007 - INFO - 127.0.0.1 - - [06/Jul/2024 14:30:41] "GET /show_feed HTTP/1.1" 200 -
+2024-07-06 14:31:34,809 - INFO - 127.0.0.1 - - [06/Jul/2024 14:31:34] "GET /video_feed HTTP/1.1" 200 -
+2024-07-06 14:35:10,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.11:8089
+2024-07-06 14:35:10,980 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 14:35:10,982 - INFO -  * Restarting with stat
+2024-07-06 14:35:16,436 - WARNING -  * Debugger is active!
+2024-07-06 14:35:16,440 - INFO -  * Debugger PIN: 152-173-929
+2024-07-06 14:36:08,828 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:08] "GET / HTTP/1.1" 200 -
+2024-07-06 14:36:10,773 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:10] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-06 14:36:10,845 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:10] "GET /show_feed HTTP/1.1" 200 -
+2024-07-06 14:36:59,527 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:59] "GET /video_feed HTTP/1.1" 200 -

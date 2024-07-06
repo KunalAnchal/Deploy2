@@ -1,0 +1,13 @@
+classNames:
+  - box
+
+model:
+  path: "weights/best.pt"
+
+video_path : "Videos/nut_vid1.mp4"
+
+cameras:
+   - name: "Camera 3"
+     alias: "Inner cabin"
+     rtsp_url: "rtsp://admin:iiiot2.com@223.236.206.88:554/2"
+     allowed_roles: [ 'admin' ]
