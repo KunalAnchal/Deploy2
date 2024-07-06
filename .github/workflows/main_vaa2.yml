@@ -61,6 +61,10 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+      - name: Install OpenGL dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgl1-mesa-glx
       
       - name: Login to Azure
         uses: azure/login@v1
@@ -75,4 +79,5 @@ jobs:
         with:
           app-name: 'VAA2'
           slot-name: 'Production'
+
           
