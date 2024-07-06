@@ -1,9 +1,11 @@
 flask
+pandas
 cvzone==1.5.6
 ultralytics~=8.0.229
 hydra-core>=1.2.0
 matplotlib>=3.2.2
-numpy
+numpy>=1.26.4
+seaborn
 opencv-python
 Pillow>=7.1.2
 PyYAML>=5.3.1
@@ -14,7 +16,6 @@ torchvision>=0.8.1
 tqdm>=4.64.0
 filterpy==1.4.5
 scikit-image==0.19.3
-lap==0.4.0
 inference~=0.9.7
 supervision~=0.17.1
 sendgrid~=6.11.0
