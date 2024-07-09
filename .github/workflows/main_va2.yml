@@ -32,6 +32,11 @@ jobs:
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
 
+      - name: Install OpenGL dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgl1-mesa-glx
+
       - name: Zip artifact for deployment
         run: zip release.zip ./* -r
 
@@ -61,7 +66,6 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
-      
       - name: Login to Azure
         uses: azure/login@v1
         with:
@@ -75,4 +79,5 @@ jobs:
         with:
           app-name: 'VA2'
           slot-name: 'Production'
+
           
