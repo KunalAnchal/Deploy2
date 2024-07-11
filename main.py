@@ -18,7 +18,7 @@ video_path = config['video_path']
 model_path = config['model']['path']
 model = YOLO(model_path)
 classNames = config['classNames']
-class_count = ["box"]
+class_count = ["Nut"]
 
 NUM_WORKER_THREADS = 100
 FRAME_SKIP_INTERVAL = 10

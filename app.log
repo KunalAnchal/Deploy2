@@ -34,3 +34,63 @@
 2024-07-06 14:36:10,773 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:10] "[32mPOST /start HTTP/1.1[0m" 302 -
 2024-07-06 14:36:10,845 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:10] "GET /show_feed HTTP/1.1" 200 -
 2024-07-06 14:36:59,527 - INFO - 127.0.0.1 - - [06/Jul/2024 14:36:59] "GET /video_feed HTTP/1.1" 200 -
+2024-07-06 16:39:01,154 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.11:8089
+2024-07-06 16:39:01,154 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 16:39:01,158 - INFO -  * Restarting with stat
+2024-07-06 16:39:10,137 - WARNING -  * Debugger is active!
+2024-07-06 16:39:10,143 - INFO -  * Debugger PIN: 152-173-929
+2024-07-06 16:39:10,254 - INFO - 127.0.0.1 - - [06/Jul/2024 16:39:10] "GET / HTTP/1.1" 200 -
+2024-07-06 16:39:11,360 - INFO - 127.0.0.1 - - [06/Jul/2024 16:39:11] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-06 16:39:11,536 - INFO - 127.0.0.1 - - [06/Jul/2024 16:39:11] "GET /show_feed HTTP/1.1" 200 -
+2024-07-06 16:40:09,105 - INFO - 127.0.0.1 - - [06/Jul/2024 16:40:09] "GET /video_feed HTTP/1.1" 200 -
+2024-07-08 08:07:44,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.183.211:8089
+2024-07-08 08:07:44,661 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-08 08:07:44,663 - INFO -  * Restarting with stat
+2024-07-08 08:07:52,631 - WARNING -  * Debugger is active!
+2024-07-08 08:07:52,642 - INFO -  * Debugger PIN: 152-173-929
+2024-07-08 08:07:52,901 - INFO - 127.0.0.1 - - [08/Jul/2024 08:07:52] "GET / HTTP/1.1" 200 -
+2024-07-08 08:07:52,912 - INFO - 127.0.0.1 - - [08/Jul/2024 08:07:52] "GET / HTTP/1.1" 200 -
+2024-07-08 08:07:56,537 - INFO - 127.0.0.1 - - [08/Jul/2024 08:07:56] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-08 08:07:56,727 - INFO - 127.0.0.1 - - [08/Jul/2024 08:07:56] "GET /show_feed HTTP/1.1" 200 -
+2024-07-08 08:08:48,426 - INFO - 127.0.0.1 - - [08/Jul/2024 08:08:48] "GET /video_feed HTTP/1.1" 200 -
+2024-07-10 09:51:24,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.15:8089
+2024-07-10 09:51:24,613 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-10 09:51:24,616 - INFO -  * Restarting with stat
+2024-07-10 09:51:34,588 - WARNING -  * Debugger is active!
+2024-07-10 09:51:34,596 - INFO -  * Debugger PIN: 152-173-929
+2024-07-10 09:51:34,744 - INFO - 127.0.0.1 - - [10/Jul/2024 09:51:34] "GET / HTTP/1.1" 200 -
+2024-07-10 09:51:34,988 - INFO - 127.0.0.1 - - [10/Jul/2024 09:51:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-11 11:33:37,291 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.25:8089
+2024-07-11 11:33:37,291 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 11:33:37,295 - INFO -  * Restarting with stat
+2024-07-11 11:33:45,965 - WARNING -  * Debugger is active!
+2024-07-11 11:33:45,974 - INFO -  * Debugger PIN: 152-173-929
+2024-07-11 11:33:46,167 - INFO - 127.0.0.1 - - [11/Jul/2024 11:33:46] "GET / HTTP/1.1" 200 -
+2024-07-11 11:33:46,243 - INFO - 127.0.0.1 - - [11/Jul/2024 11:33:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-11 11:33:47,521 - INFO - 127.0.0.1 - - [11/Jul/2024 11:33:47] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-11 11:33:47,697 - INFO - 127.0.0.1 - - [11/Jul/2024 11:33:47] "GET /show_feed HTTP/1.1" 200 -
+2024-07-11 11:34:43,649 - INFO - 127.0.0.1 - - [11/Jul/2024 11:34:43] "GET /video_feed HTTP/1.1" 200 -
+2024-07-11 11:43:02,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.1.25:8089
+2024-07-11 11:43:02,605 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 11:43:02,608 - INFO -  * Restarting with stat
+2024-07-11 11:43:11,278 - WARNING -  * Debugger is active!
+2024-07-11 11:43:11,283 - INFO -  * Debugger PIN: 152-173-929
+2024-07-11 11:43:11,343 - INFO - 127.0.0.1 - - [11/Jul/2024 11:43:11] "GET / HTTP/1.1" 200 -
+2024-07-11 11:43:13,990 - INFO - 127.0.0.1 - - [11/Jul/2024 11:43:13] "[32mPOST /start HTTP/1.1[0m" 302 -
+2024-07-11 11:43:14,167 - INFO - 127.0.0.1 - - [11/Jul/2024 11:43:14] "GET /show_feed HTTP/1.1" 200 -
+2024-07-11 11:44:10,113 - INFO - 127.0.0.1 - - [11/Jul/2024 11:44:10] "GET /video_feed HTTP/1.1" 200 -

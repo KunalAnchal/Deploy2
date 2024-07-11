@@ -1,5 +1,5 @@
 classNames:
-  - box
+  - Nut
 
 model:
   path: "weights/best.pt"
