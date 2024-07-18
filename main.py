@@ -114,7 +114,7 @@ def display_frames():
         width = 640
         height = 480
         resized_frame = cv2.resize(processed_frame, (width, height))
-        cv2.imshow('Processed Frame', resized_frame)
+        # cv2.imshow('Processed Frame', resized_frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             stop_thread = True
             break
